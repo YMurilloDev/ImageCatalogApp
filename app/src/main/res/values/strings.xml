@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageTimelineApp</string>
+    <string name="feat_main_fetch_images_error">There was an error loading your images</string>
+    <string name="feat_main_fetch_image_error">There was an error loading the image.</string>
+</resources>
